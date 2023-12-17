@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabian Raja Fernando A</h1>
+<h1 align="center">Hi 👋, I'm Fabian Raja Fernando A - MERN Stack Developer</h1>
 <h3 align="center">I'm passionate about building a full-stack applications using the MERN stack</h3>
 
 <h3 align="left">Connect with me:</h3>
