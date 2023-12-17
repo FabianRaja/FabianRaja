@@ -15,14 +15,14 @@
 <p></p>
 <ul>
   <li>HTML, CSS, JavaScript</li>
-  <li>Reactjs</li>
+  <li>React.js</li>
   <li>Redux</li>
 </ul>
 <b>Backend:</b>
 <p></p>
 <ul>
-  <li>Nodejs</li>
-  <li>Express</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
   <li>JWT</li>
 </ul>
 <b>Database:</b>
