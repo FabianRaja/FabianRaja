@@ -19,16 +19,19 @@
   <li>Redux</li>
 </ul>
 <b>Backend:</b>
+<p></p>
 <ul>
   <li>Nodejs</li>
   <li>Express</li>
   <li>JWT</li>
 </ul>
 <b>Database:</b>
+<p></p>
 <ul>
   <li>MongoDB</li>
 </ul>
 <b>Tools and Others:</b>
+<p></p>
 <ul>
   <li>Git, Github</li>
   <li>Visual Studio Code</li>
