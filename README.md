@@ -15,14 +15,14 @@
 <p></p>
 <ul>
   <li>HTML, CSS, JavaScript</li>
-  <li>React.js (Hooks, ContextAPI)</li>
-  <li>State Management with Redux</li>
+  <li>Reactjs</li>
+  <li>Redux</li>
 </ul>
 <b>Backend:</b>
 <ul>
-  <li>Node.js with Express.js</li>
-  <li>Restful API design and development</li>
-  <li>Authentication and authorization (Json web token)</li>
+  <li>Nodejs</li>
+  <li>Express</li>
+  <li>JWT</li>
 </ul>
 <b>Database:</b>
 <ul>
