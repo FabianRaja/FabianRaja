@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabianraja&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="fabianraja" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianraja&show_icons=true&locale=en" alt="fabianraja" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianraja&theme=vue-dark&show_icons=true&locale=en" alt="fabianraja" /></p>
